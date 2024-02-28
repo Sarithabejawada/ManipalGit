@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-28T11:29:48 IST" name="Suite" finished-at="2024-02-28T11:29:55 IST" duration-ms="7764">
+    <groups>
+    </groups>
+    <test started-at="2024-02-28T11:29:48 IST" name="Test" finished-at="2024-02-28T11:29:55 IST" duration-ms="7764">
+      <class name="AxisDatadriven.writeToExcel">
+        <test-method signature="fblogin()[pri:0, instance:AxisDatadriven.writeToExcel@6a84a97d]" started-at="2024-02-28T11:29:52 IST" name="fblogin" finished-at="2024-02-28T11:29:55 IST" duration-ms="3038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fblogin -->
+      </class> <!-- AxisDatadriven.writeToExcel -->
+      <class name="AxisDatadriven.ReadExcel">
+        <test-method signature="fblogin()[pri:0, instance:AxisDatadriven.ReadExcel@1613674b]" started-at="2024-02-28T11:29:48 IST" name="fblogin" finished-at="2024-02-28T11:29:52 IST" duration-ms="4697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fblogin -->
+      </class> <!-- AxisDatadriven.ReadExcel -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
